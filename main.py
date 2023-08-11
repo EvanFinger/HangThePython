@@ -13,7 +13,7 @@ def getDiff():
     difficulty = int(input("Selected Difficulty: "))
 
 
-initProj()
+
 
 """
 while True:
